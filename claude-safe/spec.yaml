@@ -21,6 +21,8 @@ network:
       valueFormat: "%s"
   allowedDomains:
     - "claude.com:443"
+    - "api.anthropic.com:443"
+    - "platform.claude.com:443"
 
 credentials:
   sources:
